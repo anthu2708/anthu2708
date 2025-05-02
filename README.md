@@ -1,7 +1,10 @@
-<h2 align="left">
-Hi, I'm An Phung
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2MzU1ZG5reTE1ZXpleGl0MGI4eWo1bXdmYnUyMmdqdmVvc21wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pzbGEEg4kDXALavOqA/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: -10px;" />
+<h2 style="display: flex; align-items: bottom;">
+
+  Hi, I'm An Phung
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2MzU1ZG5reTE1ZXpleGl0MGI4eWo1bXdmYnUyMmdqdmVvc21wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pzbGEEg4kDXALavOqA/giphy.gif" width="36" height="36" alt="Waving hand" />
+
 </h2>
+
 
 
 ### About Me
